@@ -1,2 +1,2 @@
 # MyProj1
-Practice repo
+Practice repo to understand git commands
